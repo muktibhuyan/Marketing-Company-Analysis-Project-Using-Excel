@@ -14,7 +14,6 @@ Age Group Product Interest:
 
 ![age grop](https://github.com/muktibhuyan/Marketing-Company-Analysis-Project-Using-Excel/assets/157217497/71888bb3-901d-484c-9296-0f1367848470)
 
-
 Yearly Revenue:
 • This line chart tracks the total yearly revenue from 2021 to 2034.
 • The revenue trend is relatively stable from 2021 through 2033, with minor fluctuations year-over-year.
